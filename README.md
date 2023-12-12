@@ -14,7 +14,9 @@ Welcome to my GitHub profile! 👋 I'm Yuzar, a passionate backend engineer with
 
 ## 📈 GitHub Stats
 
-[![Yuzar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratamayuzar&show_icons=true&count_private=true&hide=issues,contribs)](https://github.com/pratamayuzar)
+![pratamayuzar's Stats](https://github-readme-stats.vercel.app/api?username=pratamayuzar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) <br>
+![pratamayuzar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratamayuzar&theme=vue-dark&hide_border=true) <br>
+![pratamayuzar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratamayuzar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Let's Connect
 
