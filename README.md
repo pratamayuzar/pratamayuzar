@@ -5,10 +5,10 @@ Welcome to my GitHub profile! 👋 I'm Yuzar, a passionate backend engineer with
 
 ## 🔧 Skills
 
-- **Languages**: PHP, Go, Python
-- **Frameworks**: Laravel, Gin, Django
+- **Languages**: PHP, Go, Python, Javascript
+- **Frameworks**: Laravel, Gin, Django, React, ExpressJS
 - **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB
-- **Tools**: Git, Docker, AWS
+- **Tools**: Git, Docker, AWS, GCP
 - **Architecture**: Microservices, RESTful APIs, GraphQL
 - **DevOps**: Continuous Integration/Continuous Deployment (CI/CD), Jenkins
 
